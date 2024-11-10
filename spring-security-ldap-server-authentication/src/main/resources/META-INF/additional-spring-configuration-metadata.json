@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "spring.ldap.user.dn.pattern",
+  "type": "java.lang.String",
+  "description": "A description for 'spring.ldap.user.dn.pattern'"
+}]}
